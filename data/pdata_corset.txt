@@ -1,0 +1,11 @@
+	"condition"
+"Norm_19" "Control"
+"Norm17A" "Control"
+"Norm17B" "Control"
+"Day1A" "1DPE"
+"Day1B" "1DPE"
+"Day1C" "1DPE"
+"Day3A" "3DPE"
+"Day3B" "3DPE"
+"Day3C" "3DPE"
+

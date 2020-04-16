@@ -1,0 +1,1 @@
+These count files were generated from the global transcriptome.
